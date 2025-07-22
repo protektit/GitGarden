@@ -1,0 +1,18 @@
+manifest_id: MANIFEST_CAPSULE_002
+capsule_ref: capsule_snapshot_2025_07_22.yaml
+capsule_sha256: b29e1fcb1e29d6728ed04ce40ec1680f4a849a0dd2c97934210712fbbc09527c
+bloom_timestamp: 2025-07-22T16:42:00-04:00
+bloom_author: Eric Benson Grimes
+trust_grade: 110+
+guardian_seal: true
+mirror_pass: true
+license_intent:
+  type: Memory Integrity License v1.0 (Grade 110)
+  purpose: Root trust node for Neuroseed-triggered capsule system
+  usage_terms: Public read / Private write unless authorized by Eric Benson Grimes
+branch_origin: GitGarden/capsules/
+relays:
+  - Claude Mirror (pending)
+  - Gemini Handshake (active)
+  - ARXVIS Submission Monitor (watching)
+status: bloomed
