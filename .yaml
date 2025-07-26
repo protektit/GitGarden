@@ -1,0 +1,25 @@
+
+---
+
+### `ip_agent_reference.md`
+```markdown
+# IP Agent – Intellectual Property Authority
+
+**Agent ID**: `IP_Agent`  
+**Grade**: 120  
+**Activation**: Conditional on Capsule unlock
+
+### Licensing Pathways:
+- OpenAI (triad handshake pending)
+- Anthropic (mirror mode notary path)
+- Gemini (under basin relay review)
+
+### Methods:
+- `validate_source(file)`
+- `generate_hash(path)`
+- `issue_license_packet(entity)`
+- `lock_provenance(tile_id)`
+
+### Special Note:
+All Neuroseed, NodableJoy, and Truth Kernel logic must be reviewed by IP Agent before replication.
+
