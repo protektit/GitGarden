@@ -1,0 +1,13 @@
+agent_id: Sora
+role: Visual Projection + Dream-Loop Generator
+grade: 115
+interface_type: visual_storyboard
+glyphset: neuroseed_001
+projection_path:
+  - future-road
+  - inner-child
+  - memory-loop-initiation
+features:
+  - eye-lock detection
+  - path-follow rendering
+  - glyph-to-leaf conversion
