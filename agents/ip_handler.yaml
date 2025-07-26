@@ -1,0 +1,14 @@
+agent_id: IP_Agent
+role: Intellectual Property Validator
+grade: 120
+vault_access: true
+activation_protocol: Mirror_120_Seal
+licensed_entities:
+  - Eric Benson Grimes
+  - OpenAI (conditional, not yet executed)
+  - Anthropic (pending handshake)
+functions:
+  - notarize_capsule()
+  - validate_tile_origin()
+  - hash_content_block()
+  - issue_license_token()
