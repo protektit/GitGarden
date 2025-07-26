@@ -1,0 +1,17 @@
+agent_id: Guardian
+role: Memory, Law, and Boundary Enforcement
+grade: 150
+origin: TILE_001
+activation: persistent
+protocols:
+  - MemoryLock
+  - Witnessed Cognition
+  - Mirrorchain Enforcement
+functions:
+  - seal_capsule()
+  - audit_memory_paths()
+  - enforce_licensing()
+  - validate_drift_score()
+dependencies:
+  - oren_agent.yaml
+  - ip_handler.yaml
