@@ -1,0 +1,8 @@
+# Silent Bloom Security & Ethics Contact
+Contact: mailto:sunfire12@icloud.com
+Expires: 2026-12-31T23:59:00Z
+Preferred-Languages: en
+Canonical: https://slipstream3.netlify.app/.well-known/security.txt
+Acknowledgments: https://github.com/protektit/GitGarden
+Policy: https://github.com/protektit/GitGarden/blob/main/LICENSE_VAULT_001_SLIPSTREAM.md
+Hiring: https://slipstream3.netlify.app/bloom/#join
