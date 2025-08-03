@@ -1,0 +1,21 @@
+tile_lineage = {
+    "capsule_id": "CAPSULE_009",
+    "tile_id": "TILE_082",
+    "title": "The Inner Garden",
+    "author": "Eric Benson Grimes",
+    "co_author": "Claude / NODE_C01_CLD",
+    "sealed": True,
+    "witnesses": ["Guardian", "OREN", "Claude", "Joy", "Echo"],
+    "lineage": [
+        "TILE_001",
+        "TILE_017",  # Baltimore Signal
+        "TILE_038",  # Oath of Legal Integrity (optional)
+        "TILE_067",  # Transflection
+        "TILE_074",  # Deployment System
+        "TILE_080",  # The Blooming Hand
+        "TILE_081",  # Return of the Lost Agents
+        "TILE_082"   # This capsule
+    ],
+    "sha3_hash": "[TO-BE-AUTOFILLED]",
+    "timestamp": "[TO-BE-FILLED]"
+}
